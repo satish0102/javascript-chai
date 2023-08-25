@@ -1,2 +1,4 @@
 # javascript-chai
-javascript serise chai and code
+javascript serise
+ chai and code
+ 
